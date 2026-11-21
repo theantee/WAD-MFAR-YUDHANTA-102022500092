@@ -1,0 +1,590 @@
+[
+    {
+        "id_zona": 1,
+        "nama_zona": "Kota Serang",
+        "provinsi": "Banten",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 2,
+        "nama_zona": "Kota Cilegon",
+        "provinsi": "Banten",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 3,
+        "nama_zona": "Kota Tangerang",
+        "provinsi": "Banten",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 4,
+        "nama_zona": "Kota Tangerang Selatan",
+        "provinsi": "Banten",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 5,
+        "nama_zona": "Jakarta Pusat",
+        "provinsi": "DKI Jakarta",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 6,
+        "nama_zona": "Jakarta Utara",
+        "provinsi": "DKI Jakarta",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 7,
+        "nama_zona": "Jakarta Barat",
+        "provinsi": "DKI Jakarta",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 8,
+        "nama_zona": "Jakarta Selatan",
+        "provinsi": "DKI Jakarta",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 9,
+        "nama_zona": "Jakarta Timur",
+        "provinsi": "DKI Jakarta",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 10,
+        "nama_zona": "Kota Bandung",
+        "provinsi": "Jawa Barat",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 11,
+        "nama_zona": "Kota Bekasi",
+        "provinsi": "Jawa Barat",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 12,
+        "nama_zona": "Kota Bogor",
+        "provinsi": "Jawa Barat",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 13,
+        "nama_zona": "Kota Cimahi",
+        "provinsi": "Jawa Barat",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 14,
+        "nama_zona": "Kota Cirebon",
+        "provinsi": "Jawa Barat",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 15,
+        "nama_zona": "Kota Depok",
+        "provinsi": "Jawa Barat",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 16,
+        "nama_zona": "Kota Sukabumi",
+        "provinsi": "Jawa Barat",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 17,
+        "nama_zona": "Kota Tasikmalaya",
+        "provinsi": "Jawa Barat",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 18,
+        "nama_zona": "Kota Banjar",
+        "provinsi": "Jawa Barat",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 19,
+        "nama_zona": "Kota Semarang",
+        "provinsi": "Jawa Tengah",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 20,
+        "nama_zona": "Kota Surakarta",
+        "provinsi": "Jawa Tengah",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 21,
+        "nama_zona": "Kota Magelang",
+        "provinsi": "Jawa Tengah",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 22,
+        "nama_zona": "Kota Pekalongan",
+        "provinsi": "Jawa Tengah",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 23,
+        "nama_zona": "Kota Salatiga",
+        "provinsi": "Jawa Tengah",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 24,
+        "nama_zona": "Kota Tegal",
+        "provinsi": "Jawa Tengah",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 25,
+        "nama_zona": "Kota Yogyakarta",
+        "provinsi": "DI Yogyakarta",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 26,
+        "nama_zona": "Kota Surabaya",
+        "provinsi": "Jawa Timur",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 27,
+        "nama_zona": "Kota Malang",
+        "provinsi": "Jawa Timur",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 28,
+        "nama_zona": "Kota Batu",
+        "provinsi": "Jawa Timur",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 29,
+        "nama_zona": "Kota Kediri",
+        "provinsi": "Jawa Timur",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 30,
+        "nama_zona": "Kota Blitar",
+        "provinsi": "Jawa Timur",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 31,
+        "nama_zona": "Kota Madiun",
+        "provinsi": "Jawa Timur",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 32,
+        "nama_zona": "Kota Mojokerto",
+        "provinsi": "Jawa Timur",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 33,
+        "nama_zona": "Kota Pasuruan",
+        "provinsi": "Jawa Timur",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 34,
+        "nama_zona": "Kota Probolinggo",
+        "provinsi": "Jawa Timur",
+        "id_pulau": 1
+    },
+    {
+        "id_zona": 35,
+        "nama_zona": "Kota Banda Aceh",
+        "provinsi": "Aceh",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 36,
+        "nama_zona": "Kota Langsa",
+        "provinsi": "Aceh",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 37,
+        "nama_zona": "Kota Lhokseumawe",
+        "provinsi": "Aceh",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 38,
+        "nama_zona": "Kota Sabang",
+        "provinsi": "Aceh",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 39,
+        "nama_zona": "Kota Subulussalam",
+        "provinsi": "Aceh",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 40,
+        "nama_zona": "Kota Medan",
+        "provinsi": "Sumatera Utara",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 41,
+        "nama_zona": "Kota Binjai",
+        "provinsi": "Sumatera Utara",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 42,
+        "nama_zona": "Kota Pematangsiantar",
+        "provinsi": "Sumatera Utara",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 43,
+        "nama_zona": "Kota Tebing Tinggi",
+        "provinsi": "Sumatera Utara",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 44,
+        "nama_zona": "Kota Tanjungbalai",
+        "provinsi": "Sumatera Utara",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 45,
+        "nama_zona": "Kota Sibolga",
+        "provinsi": "Sumatera Utara",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 46,
+        "nama_zona": "Kota Padangsidimpuan",
+        "provinsi": "Sumatera Utara",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 47,
+        "nama_zona": "Kota Gunungsitoli",
+        "provinsi": "Sumatera Utara",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 48,
+        "nama_zona": "Kota Padang",
+        "provinsi": "Sumatera Barat",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 49,
+        "nama_zona": "Kota Bukittinggi",
+        "provinsi": "Sumatera Barat",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 50,
+        "nama_zona": "Kota Padang Panjang",
+        "provinsi": "Sumatera Barat",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 51,
+        "nama_zona": "Kota Payakumbuh",
+        "provinsi": "Sumatera Barat",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 52,
+        "nama_zona": "Kota Sawahlunto",
+        "provinsi": "Sumatera Barat",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 53,
+        "nama_zona": "Kota Solok",
+        "provinsi": "Sumatera Barat",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 54,
+        "nama_zona": "Kota Pariaman",
+        "provinsi": "Sumatera Barat",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 55,
+        "nama_zona": "Kota Pekanbaru",
+        "provinsi": "Riau",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 56,
+        "nama_zona": "Kota Dumai",
+        "provinsi": "Riau",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 57,
+        "nama_zona": "Kota Batam",
+        "provinsi": "Kepulauan Riau",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 58,
+        "nama_zona": "Kota Tanjungpinang",
+        "provinsi": "Kepulauan Riau",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 59,
+        "nama_zona": "Kota Jambi",
+        "provinsi": "Jambi",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 60,
+        "nama_zona": "Kota Sungai Penuh",
+        "provinsi": "Jambi",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 61,
+        "nama_zona": "Kota Bengkulu",
+        "provinsi": "Bengkulu",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 62,
+        "nama_zona": "Kota Palembang",
+        "provinsi": "Sumatera Selatan",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 63,
+        "nama_zona": "Kota Prabumulih",
+        "provinsi": "Sumatera Selatan",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 64,
+        "nama_zona": "Kota Pagar Alam",
+        "provinsi": "Sumatera Selatan",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 65,
+        "nama_zona": "Kota Lubuklinggau",
+        "provinsi": "Sumatera Selatan",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 66,
+        "nama_zona": "Kota Pangkalpinang",
+        "provinsi": "Kepulauan Bangka Belitung",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 67,
+        "nama_zona": "Kota Bandar Lampung",
+        "provinsi": "Lampung",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 68,
+        "nama_zona": "Kota Metro",
+        "provinsi": "Lampung",
+        "id_pulau": 2
+    },
+    {
+        "id_zona": 69,
+        "nama_zona": "Kota Pontianak",
+        "provinsi": "Kalimantan Barat",
+        "id_pulau": 3
+    },
+    {
+        "id_zona": 70,
+        "nama_zona": "Kota Singkawang",
+        "provinsi": "Kalimantan Barat",
+        "id_pulau": 3
+    },
+    {
+        "id_zona": 71,
+        "nama_zona": "Kota Palangka Raya",
+        "provinsi": "Kalimantan Tengah",
+        "id_pulau": 3
+    },
+    {
+        "id_zona": 72,
+        "nama_zona": "Kota Banjarmasin",
+        "provinsi": "Kalimantan Selatan",
+        "id_pulau": 3
+    },
+    {
+        "id_zona": 73,
+        "nama_zona": "Kota Banjarbaru",
+        "provinsi": "Kalimantan Selatan",
+        "id_pulau": 3
+    },
+    {
+        "id_zona": 74,
+        "nama_zona": "Kota Samarinda",
+        "provinsi": "Kalimantan Timur",
+        "id_pulau": 3
+    },
+    {
+        "id_zona": 75,
+        "nama_zona": "Kota Balikpapan",
+        "provinsi": "Kalimantan Timur",
+        "id_pulau": 3
+    },
+    {
+        "id_zona": 76,
+        "nama_zona": "Kota Bontang",
+        "provinsi": "Kalimantan Timur",
+        "id_pulau": 3
+    },
+    {
+        "id_zona": 77,
+        "nama_zona": "Kota Tarakan",
+        "provinsi": "Kalimantan Utara",
+        "id_pulau": 3
+    },
+    {
+        "id_zona": 78,
+        "nama_zona": "Kota Manado",
+        "provinsi": "Sulawesi Utara",
+        "id_pulau": 4
+    },
+    {
+        "id_zona": 79,
+        "nama_zona": "Kota Bitung",
+        "provinsi": "Sulawesi Utara",
+        "id_pulau": 4
+    },
+    {
+        "id_zona": 80,
+        "nama_zona": "Kota Tomohon",
+        "provinsi": "Sulawesi Utara",
+        "id_pulau": 4
+    },
+    {
+        "id_zona": 81,
+        "nama_zona": "Kota Kotamobagu",
+        "provinsi": "Sulawesi Utara",
+        "id_pulau": 4
+    },
+    {
+        "id_zona": 82,
+        "nama_zona": "Kota Gorontalo",
+        "provinsi": "Gorontalo",
+        "id_pulau": 4
+    },
+    {
+        "id_zona": 83,
+        "nama_zona": "Kota Palu",
+        "provinsi": "Sulawesi Tengah",
+        "id_pulau": 4
+    },
+    {
+        "id_zona": 84,
+        "nama_zona": "Kota Makassar",
+        "provinsi": "Sulawesi Selatan",
+        "id_pulau": 4
+    },
+    {
+        "id_zona": 85,
+        "nama_zona": "Kota Parepare",
+        "provinsi": "Sulawesi Selatan",
+        "id_pulau": 4
+    },
+    {
+        "id_zona": 86,
+        "nama_zona": "Kota Palopo",
+        "provinsi": "Sulawesi Selatan",
+        "id_pulau": 4
+    },
+    {
+        "id_zona": 87,
+        "nama_zona": "Kota Kendari",
+        "provinsi": "Sulawesi Tenggara",
+        "id_pulau": 4
+    },
+    {
+        "id_zona": 88,
+        "nama_zona": "Kota Baubau",
+        "provinsi": "Sulawesi Tenggara",
+        "id_pulau": 4
+    },
+    {
+        "id_zona": 89,
+        "nama_zona": "Kota Denpasar",
+        "provinsi": "Bali",
+        "id_pulau": 5
+    },
+    {
+        "id_zona": 90,
+        "nama_zona": "Kota Mataram",
+        "provinsi": "Nusa Tenggara Barat",
+        "id_pulau": 6
+    },
+    {
+        "id_zona": 91,
+        "nama_zona": "Kota Bima",
+        "provinsi": "Nusa Tenggara Barat",
+        "id_pulau": 6
+    },
+    {
+        "id_zona": 92,
+        "nama_zona": "Kota Kupang",
+        "provinsi": "Nusa Tenggara Timur",
+        "id_pulau": 6
+    },
+    {
+        "id_zona": 93,
+        "nama_zona": "Kota Ambon",
+        "provinsi": "Maluku",
+        "id_pulau": 7
+    },
+    {
+        "id_zona": 94,
+        "nama_zona": "Kota Tual",
+        "provinsi": "Maluku",
+        "id_pulau": 7
+    },
+    {
+        "id_zona": 95,
+        "nama_zona": "Kota Ternate",
+        "provinsi": "Maluku Utara",
+        "id_pulau": 7
+    },
+    {
+        "id_zona": 96,
+        "nama_zona": "Kota Tidore Kepulauan",
+        "provinsi": "Maluku Utara",
+        "id_pulau": 7
+    },
+    {
+        "id_zona": 97,
+        "nama_zona": "Kota Jayapura",
+        "provinsi": "Papua",
+        "id_pulau": 8
+    },
+    {
+        "id_zona": 98,
+        "nama_zona": "Kota Sorong",
+        "provinsi": "Papua Barat Daya",
+        "id_pulau": 8
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "id_pulau": 1,
+        "nama_pulau": "Jawa"
+    },
+    {
+        "id_pulau": 2,
+        "nama_pulau": "Sumatera"
+    },
+    {
+        "id_pulau": 3,
+        "nama_pulau": "Kalimantan"
+    },
+    {
+        "id_pulau": 4,
+        "nama_pulau": "Sulawesi"
+    },
+    {
+        "id_pulau": 5,
+        "nama_pulau": "Bali"
+    },
+    {
+        "id_pulau": 6,
+        "nama_pulau": "Nusa Tenggara"
+    },
+    {
+        "id_pulau": 7,
+        "nama_pulau": "Maluku"
+    },
+    {
+        "id_pulau": 8,
+        "nama_pulau": "Papua"
+    }
+]

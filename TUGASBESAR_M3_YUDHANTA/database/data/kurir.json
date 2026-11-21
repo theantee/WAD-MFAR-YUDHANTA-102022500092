@@ -1,0 +1,20 @@
+[
+    {
+        "id_kurir": 1,
+        "nama_kurir": "Reguler",
+        "estimasi": "2–4 hari kerja",
+        "aktif": 1
+    },
+    {
+        "id_kurir": 2,
+        "nama_kurir": "Express",
+        "estimasi": "1–2 hari kerja",
+        "aktif": 1
+    },
+    {
+        "id_kurir": 3,
+        "nama_kurir": "Cargo",
+        "estimasi": "3–6 hari kerja",
+        "aktif": 1
+    }
+]
